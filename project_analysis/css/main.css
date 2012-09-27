@@ -1,13 +1,14 @@
 body{
 	margin:0 auto;
 	width:800px;
-	background-color:purple;
+	background-color:#643c82;
 	font-family:helvetica;
 }
 
 #wrapper{
-	background:white;
+	background:#fff;
 	padding:5px 10px;
+	margin-top:20px;
 }
 
 #info{
