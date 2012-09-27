@@ -1,0 +1,15 @@
+body{
+	margin:0 auto;
+	width:800px;
+	background-color:purple;
+	font-family:helvetica;
+}
+
+#wrapper{
+	background:white;
+	padding:5px 10px;
+}
+
+#info{
+	text-align:center;
+}
