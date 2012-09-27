@@ -1,4 +1,0 @@
-WSP
-===
-
-Wed Standards Project
